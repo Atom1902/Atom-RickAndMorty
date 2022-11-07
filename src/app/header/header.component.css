@@ -1,0 +1,12 @@
+header {
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #056aa8;
+}
+
+a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
